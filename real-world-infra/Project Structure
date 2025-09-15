@@ -1,5 +1,0 @@
-real-world-infra/
-│── main.tf
-│── variables.tf
-│── outputs.tf
-│── provider.tf
